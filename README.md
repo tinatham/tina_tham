@@ -16,7 +16,8 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+"The bud stands for all things, even for those things that don’t flower, for everything flowers, from within, of self-blessing;
+though sometimes it is necessary to reteach a thing its loveliness..." –Galway Kinnell
 
 
 <!-- Add link to the sections -->
