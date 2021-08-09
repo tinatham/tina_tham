@@ -32,21 +32,21 @@ though sometimes it is necessary to reteach a thing its loveliness...."   –Gal
 ### EXPERIENCE
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
+<!-- SENIOR ANALYST<br>
 June-2019 to Present: 1 year 10 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
 UNIT: BCG GAMMA
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data. -->
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### RISE by DigitalBCG
+Business and Data Analytics
 
 <!-- EDUCATION Section Ends -->
 
@@ -54,24 +54,24 @@ Engineering Graduate 2010-14, First Division
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
+<!--[Classification based projects](#classification-based-projects) <br>
+[Regression based projects](#regression-based-projects) <br>  -->
 
 <!-- Add your details -->
 
 #### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+<!--![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification) -->
 
 #### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
+<!--![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)  -->
 
 <!-- PROJECTS Section Ends -->
 
@@ -79,8 +79,8 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+<!--Machine Learning by Columbia University  -->
 
 ##### Achievements
-Star performer of the year at Accenture
+<!--Star performer of the year at Accenture  -->
 <!-- FEATURED Section Ends -->
