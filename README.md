@@ -19,6 +19,8 @@
 "The bud stands for all things, even for those things that don’t flower, for everything flowers, from within, of self-blessing;
 though sometimes it is necessary to reteach a thing its loveliness...."   –Galway Kinnell
 
+"The greatest value of a picture is when it forces us to notice what we never expected to see."  - John Tukey
+
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
